@@ -1,0 +1,183 @@
+{
+  "main": {
+    "name":"Taylor Bakow",
+    "occupation":"Full-Stack Developer",
+    "description":"I'm passionate about using new technologies to innovate and architect solutions for complex business problems",
+    "image":"profilepic.jpg",
+    "bio":"Information Systems Student at Brigham Young University (#5 in the Nation). Interested in development, cybsersecurity, and data analytics/machine learning.",
+    "contactmessage":"Send me a message and lets get in touch!",
+    "email": "taylorbakow@gmail.com",
+    "phone": "208-391-8482",
+    "address":{
+      "street":"736 N 850 W",
+      "city":"Provo",
+      "state":"UT",
+      "zip": "84606"
+    },
+    "website": "http://www.tbakow.com",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=1222123181",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/taylorbakow/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/taylorbakow/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/taylorbakow",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are a few of my favorite technologies.",
+    "education":[
+      {
+        "school":"Brigham Young University - Marriott School of Business",
+        "degree":"Information Systems",
+        "graduated":"December of 2019",
+        "description":"3.83 GPA"
+      }
+    ],
+    "work":[
+      {
+        "company":"Eide Bailly LLP",
+        "title":"Salesforce Developer",
+        "years":"January 2019 - Present",
+        "description":""
+      },
+      {
+        "company":"Mozenda",
+        "title":"Enterprise Services Project Manager",
+        "years":"May 2017 - January 2019",
+        "description":""
+      },
+      {
+        "company":"PhraseWorthy LLC",
+        "title":"Front End Web Developer",
+        "years":"January 2017 - May 2017",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "description":"",
+        "image":"java.png"
+      },
+      {
+        "name":"React Js",
+        "description":"",
+        "image":"react.png"
+      },
+      {
+        "name":"Node JS",
+        "description":"",
+        "image":"nodejs.png"
+      },
+      {
+        "name":"Git",
+        "description":"",
+        "image":"git.png"
+      },
+      {
+        "name":"SQL",
+        "description":"",
+        "image":"sql.png"
+      },
+      {
+        "name":"Vue JS",
+        "description":"",
+        "image":"vue.png"
+      },
+      {
+        "name":"JavaScript",
+        "description":"",
+        "image":"javascript.png"
+      },
+      {
+        "name":"Azure",
+        "description":"",
+        "image":"azure.png"
+      },
+      {
+        "name":"C#",
+        "description":"",
+        "image":"c.png"
+      },
+      {
+        "name":"Salesforce",
+        "description":"",
+        "image":"salesforce.png"
+      },
+      {
+        "name":"Firebase",
+        "description":"",
+        "image":"firebase.png"
+      },
+      {
+        "name":"Heroku",
+        "description":"",
+        "image":"heroku.png"
+      },
+      {
+        "name":"Python",
+        "description":"",
+        "image":"python.png"
+      },
+      {
+        "name":"Django",
+        "description":"",
+        "image":"django.png"
+      },
+      {
+        "name":"Mozenda",
+        "description":"",
+        "image":"mozenda.png"
+      },
+      {
+        "name":"ASP.NET Core",
+        "description":"",
+        "image":"dotnet.png"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Opioid Crisis Database Website",
+        "category":"Opioid Awareness Project",
+        "image":"Prozac_pills.jpg",
+        "url":"http://www.opioidprescriberstats.com/account/login"
+      },
+      {
+        "title":"Zillow Machine Learning",
+        "category":"Machine Learning Algorithm For Prediciting House Prices In Utah",
+        "image":"housing-graphic.jpg",
+        "url":"https://tacohojoml.azurewebsites.net/#/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
