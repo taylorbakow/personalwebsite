@@ -2,9 +2,9 @@
   "main": {
     "name":"Taylor Bakow",
     "occupation":"Full-Stack Developer and Technology Consultant",
-    "description":"I'm passionate about using new technologies to innovate and architect solutions",
+    "description":"I'm passionate about using new technologies to innovate and architect business solutions",
     "image":"profilepic.jpg",
-    "bio":"Information Systems Student at Brigham Young University. Interested in software development, cybersecurity, and data analytics/machine learning. Aside from tech, I love golfing, hiking, running, and playing just about any sport. I'm a self proclaimed movie and TV critic. I'm a foodie, I love eating just about anything, I tend to seek out the most exotic dishes. I enjoy playing guitar, especially when accompanying my wife's amazing voice. I have been married since 2016 and my wife and I just had our first baby in September of 2018.",
+    "bio":"Information Systems Student at Brigham Young University. Interested in software development, cybersecurity, and data analytics/machine learning. Aside from tech, I love golfing, hiking, running, and playing just about any sport. I'm a self proclaimed movie and TV critic. I enjoy playing guitar, especially when accompanying my wife's amazing voice. I have been married since 2016 and my wife and I just had our first baby in September of 2018.",
     "contactmessage":"Send me a message and lets get in touch!",
     "email": "taylorbakow@gmail.com",
     "phone": "208-391-8482",
