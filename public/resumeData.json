@@ -54,7 +54,7 @@
         "company":"Eide Bailly LLP",
         "title":"Salesforce Developer",
         "years":"January 2019 - Present",
-        "description":"Eide Bailly is a top accounting and business advisory firm. I currently work in their technology consulting branch as a Salesforce Developer and Consultant. In my role, I write Apex (Java) and JavaScript code to create features and improve functionality in the Salesforce platform for our clients. Our goal is to help our clients effectively integrate Salesforce into their business."
+        "description":"Eide Bailly is a top accounting and business advisory firm. I currently work in their technology consulting branch as a Salesforce Developer and Consultant. In my role, I write back-end code using Apex (Java) with SOQL (Salesforce's database query language) and front-end code using JavaScript, HTML, CSS, and Salesforce Aura and Lightning Web Components to create features and improve functionality in the Salesforce platform for our clients. Our goal is to help clients effectively integrate Salesforce into their business."
       },
       {
         "company":"Mozenda",
