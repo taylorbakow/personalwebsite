@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Taylor Bakow",
-    "occupation":"Full-Stack Developer",
-    "description":"I'm passionate about using new technologies to innovate and architect solutions for complex business problems",
+    "occupation":"Full-Stack Developer and Technology Consultant",
+    "description":"I'm passionate about using new technologies to innovate and architect solutions",
     "image":"profilepic.jpg",
-    "bio":"Information Systems Student at Brigham Young University (#5 in the Nation). Interested in development, cybsersecurity, and data analytics/machine learning.",
+    "bio":"Information Systems Student at Brigham Young University. Interested in software development, cybersecurity, and data analytics/machine learning. Aside from tech, I love golfing, hiking, running, and playing just about any sport. I'm a self proclaimed movie and TV critic. I'm a foodie, I love eating just about anything, I tend to seek out the most exotic dishes. I enjoy playing guitar, especially when accompanying my wife's amazing voice. I have been married since 2016 and my wife and I just had our first baby in September of 2018.",
     "contactmessage":"Send me a message and lets get in touch!",
     "email": "taylorbakow@gmail.com",
     "phone": "208-391-8482",
@@ -15,7 +15,7 @@
       "zip": "84606"
     },
     "website": "http://www.tbakow.com",
-    "resumedownload":"",
+    "resumedownload":"resumetb.pdf",
     "social":[
       {
         "name":"facebook",
@@ -40,13 +40,13 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here are a few of my favorite technologies.",
+    "skillmessage":"Here are some of my favorite technologies to work with.",
     "education":[
       {
         "school":"Brigham Young University - Marriott School of Business",
         "degree":"Information Systems",
         "graduated":"December of 2019",
-        "description":"3.83 GPA"
+        "description":""
       }
     ],
     "work":[
@@ -54,19 +54,19 @@
         "company":"Eide Bailly LLP",
         "title":"Salesforce Developer",
         "years":"January 2019 - Present",
-        "description":""
+        "description":"Eide Bailly is a top accounting and business advisory firm. I currently work in their technology consulting branch as a Salesforce Developer and Consultant. In my role, I write Apex (Java) and JavaScript code to create features and improve functionality in the Salesforce platform for our clients. Our goal is to help our clients effectively integrate Salesforce into their business."
       },
       {
         "company":"Mozenda",
         "title":"Enterprise Services Project Manager",
         "years":"May 2017 - January 2019",
-        "description":""
+        "description":"Mozenda is a Provo based software company that has become a market leader in web data scraping. Web scraping is the process by which a person will write scripts programatically to automate pulling text from a website. Through Mozenda's software, web data can be scraped, parsed, cleaned, and shipped to clients in an automated process. Web-scraped data is extremely valuable for business strategy, marketing, analytics, and many other things. During my time at Mozenda I was tasked with both helping Mozenda's largest enterprise clients succeed in their data projects and carrying out the actual projects themselves for other clients."
       },
       {
         "company":"PhraseWorthy LLC",
         "title":"Front End Web Developer",
         "years":"January 2017 - May 2017",
-        "description":""
+        "description":"Early in my IS career, I had the chance to intern with PhraseWorthy, a Provo based company that focuses on text analytics. PhraseWorthy uses linguistic algorithms and text analytics to help companies, writers, and journalists come up with phrases, taglines, brand-names, etc. As an intern I was tasked with doing front-end web development to improve website features and functions as well as make the website responsive to mobile devices."
       }
     ],
     "skills":[
@@ -156,27 +156,33 @@
     "projects": [
       {
         "title":"Opioid Crisis Database Website",
-        "category":"Opioid Awareness Project",
+        "category":"Opioid Awareness Project. This was submitted as a final project for a IS multi-class project",
         "image":"Prozac_pills.jpg",
         "url":"http://www.opioidprescriberstats.com/account/login"
       },
       {
         "title":"Zillow Machine Learning",
-        "category":"Machine Learning Algorithm For Prediciting House Prices In Utah",
+        "category":"Machine Learning Algorithm For Predicting Housing Prices In Utah",
         "image":"housing-graphic.jpg",
-        "url":"https://tacohojoml.azurewebsites.net/#/"
+        "url":"https://tacohojoml.herokuapp.com/#/"
+      },
+      {
+        "title":"NBA GOAT Predictor",
+        "category":"Submitted for a case competition in 2018. Our team used data analytics to create a model for predicting how NBA players compare to one another. 2nd place finish in the Wolf Company annual case competition.",
+        "image":"nba-logo-design.jpg",
+        "url":"http://nbagoat.herokuapp.com/#/"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"",
+        "user":""
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"",
+        "user":""
       }
     ]
   }
