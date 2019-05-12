@@ -171,12 +171,6 @@
         "category":"Submitted for a case competition in 2018. Our team used data analytics to create a model for predicting how NBA players compare to one another. 2nd place finish in the Wolf Company annual case competition.",
         "image":"nba-logo-design.jpg",
         "url":"http://nbagoat.herokuapp.com/#/"
-      },
-      {
-        "title":"Qwix Scoresheet",
-        "category":"An interactive web interface to save paper on one of our family's favorite games.",
-        "image":"Quixx-Feature.jpg",
-        "url":"http://bakowqwix.herokuapp.com"
       }
     ]
   },
