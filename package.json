@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "jquery": "^3.4.0",
+    "loading-svg": "^1.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-ga": "^2.5.7",

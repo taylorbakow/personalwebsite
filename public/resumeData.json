@@ -54,13 +54,13 @@
         "company":"Eide Bailly LLP",
         "title":"Salesforce Developer",
         "years":"January 2019 - Present",
-        "description":"Eide Bailly is a top accounting and business advisory firm. I currently work in their technology consulting branch as a Salesforce Developer and Consultant. In my role, I write back-end code using Apex (Java) with SOQL (Salesforce's database query language) and front-end code using JavaScript, HTML, CSS, and Salesforce Aura and Lightning Web Components to create features and improve functionality in the Salesforce platform for our clients. Our goal is to help clients effectively integrate Salesforce into their business."
+        "description":"Eide Bailly is a top accounting and business advisory firm. I currently work in their technology consulting branch as a Salesforce Developer and Consultant. As a developer, I write back-end code using Apex (Java) with SOQL (Salesforce's database query language) and front-end code using JavaScript, HTML, CSS, and Salesforce Aura and Lightning Web Components to create features and improve functionality in the Salesforce platform for our clients. Our goal is to help clients effectively integrate Salesforce into their business."
       },
       {
         "company":"Mozenda",
         "title":"Enterprise Services Project Manager",
         "years":"May 2017 - January 2019",
-        "description":"Mozenda is a Provo based software company that has become a market leader in web data scraping. Web scraping is the process by which a person will write scripts programatically to automate pulling text from a website. Through Mozenda's software, web data can be scraped, parsed, cleaned, and shipped to clients in an automated process. Web-scraped data is extremely valuable for business strategy, marketing, analytics, and many other things. During my time at Mozenda I was tasked with both helping Mozenda's largest enterprise clients succeed in their data projects and carrying out the actual projects themselves for other clients."
+        "description":"Mozenda is a Provo based software company that has become a market leader in web data scraping. Web scraping is the process by which a person will write scripts programatically to automate the extraction of information from a website. Through Mozenda's software, web data can be scraped, parsed, cleaned, and shipped to clients in an automated process. Web-scraped data is extremely valuable for business strategy, marketing, analytics, and many other things. During my time at Mozenda I was tasked with both helping Mozenda's largest enterprise clients succeed in their data projects and carrying out the actual projects themselves for other clients."
       },
       {
         "company":"PhraseWorthy LLC",
@@ -175,7 +175,7 @@
       {
         "title":"Qwix Scoresheet",
         "category":"An interactive web interface to save paper on one of our family's favorite games.",
-        "image":"",
+        "image":"Quixx-Feature.jpg",
         "url":"http://bakowqwix.herokuapp.com"
       }
     ]
