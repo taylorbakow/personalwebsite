@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import pdf from './../ResumeTB.pdf';
 
+
 class About extends Component {
   render() {
 
