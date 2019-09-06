@@ -4,7 +4,7 @@
     "occupation":"Software Developer and Technology Consultant",
     "description":"I'm passionate about using new technologies to innovate and architect business solutions",
     "image":"profilepic.jpg",
-    "bio":"Currently pursuing a Masters of Information Systems Management (MISM) degree at Brigham Young University. Interested in software development, blockchain, cybersecurity, and data analytics/machine learning. Aside from tech, I love golfing, hiking, running, and playing just about any sport. I also enjoy playing guitar, reading, eating food, and watching a good movie/TV show.",
+    "bio":"Currently pursuing a Masters of Information Systems Management (MISM) degree at Brigham Young University. Interested in software development, blockchain, cybersecurity, product management, and data analytics/machine learning. Aside from tech, I love golfing, hiking, running, and playing just about any sport. I also enjoy playing guitar, reading, eating food, and watching a good movie/TV show.",
     "contactmessage":"Send me a message and lets get in touch!",
     "email": "taylorbakow@gmail.com",
     "phone": "208-391-8482",
@@ -161,12 +161,6 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Zillow Machine Learning",
-        "category":"Machine Learning Algorithm For Predicting Housing Prices In Utah",
-        "image":"housing-graphic.jpg",
-        "url":"https://tacohojoml.herokuapp.com/#/"
-      },
-      {
         "title":"WaterWell Consultants Website",
         "category":"Freelance website and database for an Idaho based agriculture company. Built with React.js and a headless wordpress backend for a CMS.",
         "image":"waterlogo.jpg",
@@ -177,6 +171,12 @@
         "category":"Submitted for a case competition in 2018. Our team used data analytics to create a model for predicting how NBA players compare to one another. 2nd place finish in the Wolf Company annual case competition.",
         "image":"nba-logo-design.jpg",
         "url":"http://nbagoat.herokuapp.com/#/"
+      },
+      {
+        "title":"Zillow Machine Learning",
+        "category":"Machine Learning Algorithm For Predicting Housing Prices In Utah",
+        "image":"housing-graphic.jpg",
+        "url":"https://tacohojoml.herokuapp.com/#/"
       },
       {
         "title":"Opioid Crisis Database Website",
