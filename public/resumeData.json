@@ -4,7 +4,7 @@
     "occupation":"Software Developer and Technology Consultant",
     "description":"I'm passionate about using new technologies to innovate and architect business solutions",
     "image":"profilepic.jpg",
-    "bio":"Currently pursuing a Masters of Information Systems Management (MISM) degree at Brigham Young University. Interested in software development, blockchain, cybersecurity, product management, and data analytics/machine learning. Aside from tech, I love golfing, hiking, running, and playing just about any sport. I also enjoy playing guitar, reading, eating food, and watching a good movie/TV show.",
+    "bio":"Currently pursuing a Master of Information Systems Management (MISM) degree at Brigham Young University. Interested in software development, blockchain, cybersecurity, product management, and data analytics/machine learning. Aside from tech, I love golfing, hiking, running, and playing just about any sport. I also enjoy playing guitar, reading, eating food, and watching a good movie/TV show.",
     "contactmessage":"Send me a message and lets get in touch!",
     "email": "taylorbakow@gmail.com",
     "phone": "208-391-8482",
@@ -44,7 +44,7 @@
     "education":[
       {
         "school":"Brigham Young University - Marriott School of Business",
-        "degree":"Masters of Information Systems Management",
+        "degree":"Master of Information Systems Management",
         "graduated":"2019 - 2020",
         "description":""
       },
@@ -171,6 +171,12 @@
         "category":"Submitted for a case competition in 2018. Our team used data analytics to create a model for predicting how NBA players compare to one another. 2nd place finish in the Wolf Company annual case competition.",
         "image":"nba-logo-design.jpg",
         "url":"http://nbagoat.herokuapp.com/#/"
+      },
+      {
+        "title":"Blockchain on Node.js",
+        "category":"Blockchain template built with Node.js including encryption, proof of work, and data-storage. This can be used as a starter template for a basic implementation of blockchain.",
+        "image":"blockchain.jpg",
+        "url":"https://github.com/taylorbakow/BakowBlocks"
       },
       {
         "title":"Zillow Machine Learning",
